@@ -18,4 +18,4 @@ The Marketplace is a web-based shopping cart application that shows many of the 
 
 ### Page Flow Seller:
 
-![Page Flow Seller](https://github.com/francescoFH/the-marketplace/blob/main/images/pageflowseller.png)
+<img src="https://github.com/francescoFH/the-marketplace/blob/main/images/pageflowseller.png" width="400" height="300">
