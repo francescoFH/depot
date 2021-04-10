@@ -10,3 +10,6 @@ The Marketplace is a web-based shopping cart application that shows many of the 
 ## Use Cases
 * Buyer: uses the Marketplace to browse the products we have to sell, select some to purchase, and supply the information needed to create an order.
 * Seller: uses the Marketplace to maintain a list of products to sell, to determine the orders that are awaiting shipment, and to mark orders as shipped.
+
+## Page Flow
+![Page Flow](https://github.com/francescoFH/the-marketplace/blob/main/images/pageflow.png)
