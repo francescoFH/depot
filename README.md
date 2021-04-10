@@ -1,25 +1,8 @@
-# README
-
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-# depot
+THE MARKETPLACE
+-----
+The Marketplace is a web-based shopping cart application that shows many of the features of Rails development such as:
+* create maintenance pages
+* link database tables
+* handle sessions
+* create forms
+* wrangle modern JavaScript
